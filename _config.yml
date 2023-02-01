@@ -44,6 +44,7 @@ defaults:
       layout: single
 atom_feed:
   hide: true
+github: [metadata]
 plugins:
   - jekyll-feed
   - jekyll-include-cache
