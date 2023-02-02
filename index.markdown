@@ -5,16 +5,16 @@
 title: This is a social game.
 ---
 <!-- https://www.markdownguide.org/basic-syntax -->
-## The rules:
-1. Video clips must not exceed 8 seconds.
-2. Every week, on Saturday at 4 PM PST, a new heat is launched.
-3. Anybody can browse and view any past heat clips.
-4. Subscribers can see the current heat.
-5. Subscribers can vote on clips in current heat.
-6. Subscribers can submit new clips for next heat.
-7. Subscribers can vote on the same clip only once.
-8. At the end of each heat, top 3 winners are announced.
-9. In the event of a tie, the earlier submitted clip wins.
+## Rules
+1. A clip is a video that cannot exceed 8 seconds.
+2. A heat is a one-week timespan containing clips.
+3. Weekly, every Saturday at 4 PM PST, a next present heat is triggered.
+4. Anybody can browse and view any past heat clips.
+5. Subscribers can view not only the past clips but also the present heat.
+6. Subscribers can vote on clips in the present heat.
+7. Subscribers can submit new clips to appear in the next heat.
+8. At the end of each heat (every Saturday at 4 PM PST), top 3 winners are announced.
+9. In the event of a tie, an earlier submitted clip wins.
 
 ## Support
 If you have any questions, contact us at
