@@ -7,7 +7,7 @@ title: This is a social game.
 <!-- https://www.markdownguide.org/basic-syntax -->
 ## Rules
 1. A clip is a video that cannot exceed 8 seconds.
-2. A heat is a one-week timespan containing clips.
+2. A heat is a one-week timespan with respective clips.
 3. Weekly, every Saturday at 4 PM PST, a next present heat is triggered.
 4. Anybody can browse and view any past heat clips.
 5. Subscribers can view not only the past clips but also the present heat.
