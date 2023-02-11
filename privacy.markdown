@@ -22,7 +22,7 @@ Certain personal information about you is necessary so that we can provide the f
 Cookies are small text files that are commonly used as anonymous unique identifiers. This App does not collect and does not use “cookies”.
 
 ## Personal Information Deletion
-From within the App, you can choose to delete your personal information and to terminate your account. When you do so, all your personal information, such as email address, photos and videos and your screen name, will be permanently and irrevocably deleted from our database.
+From within the App, you can choose to delete your personal information and to terminate your account. When you do so, all your personal information, such as email address, photos, videos and your screen name, will be permanently and irrevocably deleted from our database.
 
 To perform the deletion, follow these steps:
 1. From any one of video clip listing pages, tap on the menu button in the top right corner of the screen.
