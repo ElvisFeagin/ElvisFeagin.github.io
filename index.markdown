@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: This is a social game.
+title: Video Eight is a social game.
 ---
 <!-- https://www.markdownguide.org/basic-syntax -->
 ## Rules
