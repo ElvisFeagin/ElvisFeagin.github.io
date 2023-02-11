@@ -14,9 +14,9 @@ If you have additional questions or require more information about our Privacy P
 
 ## Collected Information
 Certain personal information about you is necessary so that we can provide the functionality of the App. Therefore, we store the following information which is linked to your identity:
-* email address, 
-* photos and videos, 
-* your screen name
+* email address,
+* photos and videos,
+* your screen name.
 
 ## Cookies
 Cookies are small text files that are commonly used as anonymous unique identifiers. This App does not collect and does not use “cookies”.
