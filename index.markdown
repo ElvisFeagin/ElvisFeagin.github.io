@@ -19,3 +19,5 @@ title: Video Eight is a social game.
 ## Support
 If you have any questions, contact us at
 <eightsec.help@gmail.com>
+
+[Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
