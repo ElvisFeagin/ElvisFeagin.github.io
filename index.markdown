@@ -1,5 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Video Eight is a social game.
@@ -19,5 +18,3 @@ title: Video Eight is a social game.
 ## Support
 If you have any questions, contact us at
 <eightsec.help@gmail.com>
-
-[Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)

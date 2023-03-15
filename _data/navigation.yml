@@ -1,3 +1,5 @@
 main:
-  - title: "privacy"
+  - title: "Privacy Policy"
     url: /privacy/
+  - title: "Terms and Conditions"
+    url: /terms/
