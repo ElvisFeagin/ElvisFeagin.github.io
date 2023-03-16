@@ -3,7 +3,7 @@ title: Video Eight Terms and Conditions
 permalink: /terms/
 ---
 <!-- https://www.markdownguide.org/basic-syntax -->
-The Terms and Conditions were last updated on March 15, 2023.
+The Terms and Conditions were last updated on March 16, 2023.
 
 Please read these terms and conditions carefully before using the Service.
 
@@ -26,13 +26,13 @@ For the purposes of these Terms and Conditions:
 
 These are the Terms and Conditions governing the use of this Service and the agreement that operates between you and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
 
-your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
 
 By accessing or using the Service, you agree to be bound by these Terms and Conditions. If you disagree with any part of these Terms and Conditions, then you may not access the Service.
 
-you represent that you are over the age of 17. The Company does not permit those under the age of 17 to use the Service.
+You represent that you are over the age of 17. The Company does not permit those under the age of 17 to use the Service.
 
-your access to and use of the Service is also conditioned on your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of your personal information when you use the Application or the Website and tells you about your privacy rights and how the law protects you. Please read Our Privacy Policy carefully before using Our Service.
+Your access to and use of the Service is also conditioned on your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of your personal information when you use the Application or the Website and tells you about your privacy rights and how the law protects you. Please read Our Privacy Policy carefully before using Our Service.
 
 ## User Accounts
 
@@ -50,7 +50,7 @@ Our Service allows you to post Content. You are responsible for the Content that
 
 By posting Content to the Service, you grant Us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the Service. You retain any and all of your rights to any Content you submit, post or display on or through the Service and you are responsible for protecting those rights. You agree that this license includes the right for Us to make your Content available to other users of the Service, who may also use your Content subject to these Terms.
 
-you represent and warrant that: (i) the Content is Yours (you own it) or you have the right to use it and grant Us the rights and license as provided in these Terms, and (ii) the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other legal rights of any person.
+You represent and warrant that: (i) the Content is yours (you own it) or you have the right to use it and grant Us the rights and license as provided in these Terms, and (ii) the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other legal rights of any person.
 
 ## Content - Restrictions
 
@@ -87,7 +87,7 @@ We respect the intellectual property rights of others. It is Our policy to respo
 
 If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, you must submit your notice in writing to the attention of our copyright agent via email (<eightsec.help@gmail.com>) and include in your notice a detailed description of the alleged infringement.
 
-you may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing your copyright.
+You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing your copyright.
 
 ## DMCA Notice and DMCA Procedure for Copyright Infringement Claims
 
@@ -96,11 +96,11 @@ You may submit a notification pursuant to the Digital Millennium Copyright Act (
 - An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest.
 - A description of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work.
 - Identification of the URL or other specific location on the Service where the material that you claim is infringing is located.
-- your address, telephone number, and email address.
+- Your address, telephone number, and email address.
 - A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
 - A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-you can contact our copyright agent via email (<eightsec.help@gmail.com>). Upon receipt of your notification, the Company will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service.
+You can contact our copyright agent via email (<eightsec.help@gmail.com>). Upon receipt of your notification, the Company will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service.
 
 ## The Service Intellectual Property
 
