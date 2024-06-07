@@ -85,7 +85,7 @@ You agree to maintain a complete and accurate copy of any Content in a location 
 
 We respect the intellectual property rights of others. It is Our policy to respond to any claim that Content posted on the Service infringes a copyright or other intellectual property infringement of any person.
 
-If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, you must submit your notice in writing to the attention of our copyright agent via email (<eightsec.help@gmail.com>) and include in your notice a detailed description of the alleged infringement.
+If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, you must submit your notice in writing to the attention of our copyright agent via email (<videoeight.help@gmail.com>) and include in your notice a detailed description of the alleged infringement.
 
 You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing your copyright.
 
@@ -100,7 +100,7 @@ You may submit a notification pursuant to the Digital Millennium Copyright Act (
 - A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
 - A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-You can contact our copyright agent via email (<eightsec.help@gmail.com>). Upon receipt of your notification, the Company will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service.
+You can contact our copyright agent via email (<videoeight.help@gmail.com>). Upon receipt of your notification, the Company will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service.
 
 ## The Service Intellectual Property
 
@@ -154,4 +154,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 ## Contact Us
 
-If you have any questions about these Terms and Conditions, you can contact us by sending us email to <eightsec.help@gmail.com>.
+If you have any questions about these Terms and Conditions, you can contact us by sending us email to <videoeight.help@gmail.com>.
