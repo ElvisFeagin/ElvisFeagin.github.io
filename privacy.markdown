@@ -10,7 +10,7 @@ If you do not want your information processed in accordance with this Privacy Po
 
 This privacy policy applies to all users of our App.
 
-If you have additional questions or require more information about our Privacy Policy, please contact us by email at eightsec.help@gmail.com
+If you have additional questions or require more information about our Privacy Policy, please contact us by email at videoeight.help@gmail.com
 
 ## Collected Information
 Certain personal information about you is necessary so that we can provide the functionality of the App. Therefore, we store the following information which is linked to your identity:
@@ -46,4 +46,4 @@ Security is one of our biggest priorities. Although, we will do our best to prot
 ## Child safety
 The App is intended for use only by persons who are at least 17 years of age. By using the App, you confirm to us that you meet this requirement.
 
-In case we discover that a child under 17 has submitted personal information through the App, we immediately delete any such information from our servers. If you are a parent or guardian, and you are aware that your child has provided us with personal information, contact us at eightsec.help@gmail.com so that we can take necessary actions.
+In case we discover that a child under 17 has submitted personal information through the App, we immediately delete any such information from our servers. If you are a parent or guardian, and you are aware that your child has provided us with personal information, contact us at videoeight.help@gmail.com so that we can take necessary actions.
